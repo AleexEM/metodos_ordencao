@@ -1,2 +1,3 @@
 # metodos_ordencao
-Trabalho A3 PSC, Metodos de ordenação e pesquisa
+Trabalho A3 PSC, InsertionSORT
+- Parte Alex Eduardo
